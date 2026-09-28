@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="280" viewBox="0 0 880 280" role="img" aria-label="interests map">
+  <title>interests</title>
+  <rect width="880" height="280" fill="#050805"/>
+  <rect x="8" y="8" width="864" height="264" fill="none" stroke="#00ff41" stroke-opacity=".4"/>
+  <text font-family="ui-monospace, Menlo, Consolas, monospace" font-size="12" fill="#3d8a3d" x="28" y="36">/map  ·  interests</text>
+  <g>
+    <rect x="28" y="56" width="260" height="64" fill="none" stroke="#00ff41" stroke-opacity=".45"/>
+    <text font-family="ui-monospace, Menlo, Consolas, monospace" font-size="15" font-weight="700" fill="#00ff41" x="44" y="84">LINUX / OPS</text>
+    <text font-family="ui-monospace, Menlo, Consolas, monospace" font-size="12" fill="#7CFF9A" x="44" y="104">commands · vps · proxy</text>
+  </g>
+  <g>
+    <rect x="308" y="56" width="260" height="64" fill="none" stroke="#00ff41" stroke-opacity=".45"/>
+    <text font-family="ui-monospace, Menlo, Consolas, monospace" font-size="15" font-weight="700" fill="#00ff41" x="324" y="84">WEB</text>
+    <text font-family="ui-monospace, Menlo, Consolas, monospace" font-size="12" fill="#7CFF9A" x="324" y="104">hexo · typecho · php</text>
+  </g>
+  <g>
+    <rect x="588" y="56" width="260" height="64" fill="none" stroke="#00ff41" stroke-opacity=".45"/>
+    <text font-family="ui-monospace, Menlo, Consolas, monospace" font-size="15" font-weight="700" fill="#00ff41" x="604" y="84">DESIGN</text>
+    <text font-family="ui-monospace, Menlo, Consolas, monospace" font-size="12" fill="#7CFF9A" x="604" y="104">ui · resources · icons</text>
+  </g>
+  <g>
+    <rect x="28" y="148" width="260" height="64" fill="none" stroke="#00ff41" stroke-opacity=".45"/>
+    <text font-family="ui-monospace, Menlo, Consolas, monospace" font-size="15" font-weight="700" fill="#00ff41" x="44" y="176">NOTES</text>
+    <text font-family="ui-monospace, Menlo, Consolas, monospace" font-size="12" fill="#7CFF9A" x="44" y="196">11 posts · 2017 — 2018</text>
+  </g>
+  <g>
+    <rect x="308" y="148" width="260" height="64" fill="none" stroke="#00ff41" stroke-opacity=".45"/>
+    <text font-family="ui-monospace, Menlo, Consolas, monospace" font-size="15" font-weight="700" fill="#00ff41" x="324" y="176">TOOLS</text>
+    <text font-family="ui-monospace, Menlo, Consolas, monospace" font-size="12" fill="#7CFF9A" x="324" y="196">rclone · aria2 · frp</text>
+  </g>
+  <g>
+    <rect x="588" y="148" width="260" height="64" fill="none" stroke="#00ff41" stroke-opacity=".45"/>
+    <text font-family="ui-monospace, Menlo, Consolas, monospace" font-size="15" font-weight="700" fill="#00ff41" x="604" y="176">SITE</text>
+    <text font-family="ui-monospace, Menlo, Consolas, monospace" font-size="12" fill="#7CFF9A" x="604" y="196">bynnwong.github.io</text>
+  </g>
+</svg>

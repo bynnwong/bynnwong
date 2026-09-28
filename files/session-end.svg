@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="150" viewBox="0 0 880 150" role="img" aria-label="session closed">
+  <title>session closed</title>
+  <rect width="880" height="150" fill="#050805"/>
+  <rect x="8" y="8" width="864" height="134" fill="none" stroke="#00ff41" stroke-opacity=".55"/>
+  <text font-family="ui-monospace, Menlo, Consolas, monospace" font-size="12" fill="#3d8a3d" x="28" y="40">bynnwong@github:~$ ./signoff</text>
+  <text font-family="ui-monospace, Menlo, Consolas, monospace" font-size="14" fill="#7CFF9A" x="28" y="70">[*] notes archived</text>
+  <text font-family="ui-monospace, Menlo, Consolas, monospace" font-size="14" fill="#7CFF9A" x="28" y="94">[*] theme sealed</text>
+  <text font-family="ui-monospace, Menlo, Consolas, monospace" font-size="14" fill="#00ff41" x="28" y="118">[+] 2017 - 2026    exit 0</text>
+  <rect x="250" y="106" width="9" height="14" fill="#00ff41">
+    <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
